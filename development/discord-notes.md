@@ -1,0 +1,75 @@
+---
+title: Discord Notes
+description: 
+published: true
+date: 2020-11-16T15:09:14.771Z
+tags: 
+editor: undefined
+dateCreated: 2020-11-15T16:53:18.847Z
+---
+
+# Remember / Emote System
+Oh man. I really like how this mud does emotes.
+You can insert your own name with `/self`, or someone else in the room with `/<name>` or `/<short desc if you dont know their name>`
+And you do `/remember <short-desc> as <whatever>` then you can target them in your emotes with the name you choose
+And the name you choose persists everywhere. In the room list, examine, all of it
+So someone can tell you their name is one thing, and it be a fake name. You could never find out.
+# Housing
+One thing I know for sure is that I want new characters to basically be given a house instantly
+I’m going to make a huge housing district
+Probably with different districts, different house sizes, all connected via the train system.
+I also want to start thinking about the story a bit.
+I really like the idea of magic being a “hidden” thing in the world at least from the perspective of your character and how you just start in a modern city on probably Earth.
+But there will be so many other worlds/planets out there. Just need to think of ways to expose that and access that in a clever way
+
+# Client Ideas
+**MDR** - I also had an idea where when you run a command and it returns a table, it appears on the right side of the text area in a fixed way.
+
+# Mini-Games
+That could be like an entire mini-game aspect of Armeria too. Maybe we just start there. Like an entire section of the world can have all of these types of games.
+Talk to an NPC of a certain game type and you get teleported into the area of that game, etc.
+
+# Spells
+**MDR** - So I think for spells, they will be spoken phrases (using /say) that relate to a particular spell. I’m not sure if you’ve played Tibia (the 2D game) but they do that and I really liked that idea.
+
+# Arcadia Power Station
+**MDR** - This morning on the train I was thinking the main city that all players start in (which I was thinking might be called Arcadia), I was thinking a small area of it would be like a power station with power lines and whatnot, with underground tunnels with some mobs in it and maybe a quest over there.
+
+
+# Cartography
+Player made maps. etc etc
+
+# ARG
+**A** - In the future, I like the idea of running a small arg to unlock a new area. Solve the clues to discover the portals location etc
+
+# Original Idea
+**MDR** - My original idea was that there wasn’t much emphasis on the overarching story but more so that individual areas have their own quest lines and their own unique stories that are unique and isolated to that area. Kinda like Aardwolf.
+
+# Help Files
+Track nonexistent help files to determine what files we should make, or make an alias of another file.
+
+# Character Creation Talk
+**Abel**
+How detailed do you want to get with stats on a character?
+**mdr**
+Pretty detailed.
+Probably somewhere between basic and very advanced. Like I want a lot of room for customization but not something overwhelming
+**Abel**
+I know accessibility is a concern, so we can also setup some templates and ask the player if they want a quick chargen or detailed chargen
+**mdr**
+Yeah
+I like that.
+**Abel**
+It'll do stat alloc for them and all that. Also lets people get in game quick without being overwhelming. Maybe have a grace period where we can send them back to chargen to adjust it
+**mdr**
+Maybe it would be a part of this tutorial area that you can teleport to.
+You can talk to a stat NPC or something.
+**Abel**
+As long as we remove access after a certain point yeah
+Whether that is time, exp, whatever
+**mdr**
+Oh yeah, for sure. Even if it’s just the corridor in the tutorial area that gets blocked off
+**Abel**
+I like the idea of an NPC. Tell them to eff off if they are too old or something haha
+**mdr**
+haha yeah
