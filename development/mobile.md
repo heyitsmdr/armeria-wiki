@@ -2,7 +2,7 @@
 title: Mobile Client
 description: 
 published: true
-date: 2020-11-17T16:23:17.099Z
+date: 2020-11-17T23:48:20.236Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T15:08:24.455Z
@@ -16,3 +16,11 @@ dateCreated: 2020-11-16T15:08:24.455Z
 ## Breakpoints
 - <1078w - merge sidebars into one sidebar.
 - <790w - move sidebars into nav button
+
+## Parts
+- Minimap
+- Target List
+- Skill List
+- Inventory
+- Equipment?
+-
