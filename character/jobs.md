@@ -2,11 +2,10 @@
 title: Jobs
 description: 
 published: true
-date: 2020-11-16T16:14:47.520Z
+date: 2020-11-18T05:41:19.610Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-16T16:14:34.144Z
 ---
 
-# Header
-Your content here
+- [Job Template](/character/jobs/job-template)
