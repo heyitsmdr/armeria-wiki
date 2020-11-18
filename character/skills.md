@@ -2,11 +2,10 @@
 title: Skills
 description: 
 published: true
-date: 2020-11-16T16:14:08.126Z
+date: 2020-11-18T05:40:18.840Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-16T16:14:03.660Z
 ---
 
-# Header
-Your content here
+- [Skill Template](/character/skills/skill-template)
