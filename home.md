@@ -2,14 +2,15 @@
 title: Home
 description: 
 published: true
-date: 2020-11-16T21:25:26.514Z
+date: 2020-11-19T15:10:55.965Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-15T02:28:55.773Z
 ---
 
 # Overview
-Armeria is a Multi-User Dungeon, also commonly called a MUD.
+Armeria is a **M**ulti-**U**ser **D**ungeon, also commonly referred to as a MUD. You can play Armeria on any web-browser, including mobile devices, and don't need to download any software to your computer or device.
+
 <table border="0" width="100%">
 <tr>
 <td style="vertical-align: top;">
