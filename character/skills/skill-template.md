@@ -2,7 +2,7 @@
 title: Skill Template
 description: 
 published: true
-date: 2020-11-18T05:35:38.045Z
+date: 2020-11-20T16:21:34.407Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-18T05:35:38.045Z
