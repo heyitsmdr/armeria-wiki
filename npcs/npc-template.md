@@ -2,9 +2,9 @@
 title: NPC Template
 description: 
 published: true
-date: 2020-11-15T18:05:35.953Z
+date: 2020-11-20T16:23:25.313Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-15T18:04:22.433Z
 ---
 
