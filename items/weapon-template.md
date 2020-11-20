@@ -2,7 +2,7 @@
 title: Weapon Template
 description: 
 published: true
-date: 2020-11-18T05:26:45.430Z
+date: 2020-11-20T16:22:17.217Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-18T05:26:45.430Z
