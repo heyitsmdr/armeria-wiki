@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2020-11-20T17:04:17.536Z
+date: 2020-11-20T17:06:46.189Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T16:14:03.660Z
