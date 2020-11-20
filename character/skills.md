@@ -2,7 +2,7 @@
 title: Skills
 description: 
 published: true
-date: 2020-11-20T17:03:30.342Z
+date: 2020-11-20T17:04:17.536Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T16:14:03.660Z
@@ -11,6 +11,7 @@ dateCreated: 2020-11-16T16:14:03.660Z
 # B
 - [Bowyery](/character/skills/bowyery)
 # C
+- [Carpentry](/character/skills/carpentry)
 - [Cartography](/character/skills/cartography)
 # D
 - [Defense](/character/skills/defense)
@@ -24,3 +25,5 @@ dateCreated: 2020-11-16T16:14:03.660Z
 - [Ranged](/character/skills/ranged)
 # S
 - [Smithing](/character/skills/smithing)
+# W
+- [Woodcutting](/character/skills/woodcutting)
