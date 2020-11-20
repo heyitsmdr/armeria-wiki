@@ -2,14 +2,14 @@
 title: Skill Template
 description: 
 published: true
-date: 2020-11-20T16:21:34.407Z
+date: 2020-11-20T16:56:59.348Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-18T05:35:38.045Z
 ---
 
 # Overview
-Job description.
+Skill description.
 # Perks
 | Level | Description |
 |:-:|:-|
