@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-11-19T15:10:55.965Z
+date: 2020-11-21T19:04:51.795Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-15T02:28:55.773Z
@@ -34,7 +34,7 @@ Armeria is a **M**ulti-**U**ser **D**ungeon, also commonly referred to as a MUD.
 <td style="vertical-align: top;">
 
 # The World
-- [Areas](/world/areas)
+- [Planets](/world/planets)
 - [Quests](/world/quests)
 - [NPCs](/npcs)
 
