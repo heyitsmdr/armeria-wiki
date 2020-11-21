@@ -2,12 +2,34 @@
 title: Discord Notes
 description: 
 published: true
-date: 2020-11-16T15:09:14.771Z
+date: 2020-11-21T03:28:52.408Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-15T16:53:18.847Z
 ---
 
+# New  Character Experience
+**MDR**
+I’m liking it more and more honestly. And I just had a thought in my head that maybe as a new character, you start off as an employee of Armeria Industries.
+Maybe you get assigned / can pick a job or something. You can eventually quit if you want to join another corp somewhere. It could have a huge office with some restricted areas so there is secrecy
+
+**Abel**
+I was thinking fairly early on, the player is approached by a shady character to offer alternatives that aren't as uhh
+above board lol
+
+**MDR**
+Yeah I like that.
+I want Armeria Industries to basically be a mega-corp in the world. They try to control everything.
+So breaking free from that and offering "ways out".. I like that.
+
+**Abel**
+It could really just be a spot where quest lines split, and if you get so far down one, it blocks the other (sorry lol)
+
+**MDR**
+Yeah. Perhaps we make "Reputation" a thing. And if you go too far one way, you lose a ton of rep with Armeria Industries and it would take a long time to gain that back.
+
+**Abel**
+I like it. What activities could regain rep? How long would you have to do said activity to get 'enough' rep back?
 # Remember / Emote System
 Oh man. I really like how this mud does emotes.
 You can insert your own name with `/self`, or someone else in the room with `/<name>` or `/<short desc if you dont know their name>`
