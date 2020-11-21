@@ -1,8 +1,8 @@
 ---
-title: Areas
+title: Area Index
 description: 
 published: true
-date: 2020-11-21T04:00:08.092Z
+date: 2020-11-21T04:13:18.162Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-15T17:14:49.767Z
