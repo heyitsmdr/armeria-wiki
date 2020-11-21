@@ -2,7 +2,7 @@
 title: Mobile Client
 description: 
 published: true
-date: 2020-11-21T03:54:28.210Z
+date: 2020-11-21T20:21:18.910Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T15:08:24.455Z
@@ -14,8 +14,8 @@ dateCreated: 2020-11-16T15:08:24.455Z
 
 # Notes
 ## Breakpoints
-- <1078w - merge sidebars into one sidebar.
-- <790w - move sidebars into nav button
+- <1035w - merge sidebars into one sidebar.
+- <784w - move sidebars into nav button
 
 ## Parts
 - Minimap
