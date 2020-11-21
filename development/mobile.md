@@ -2,7 +2,7 @@
 title: Mobile Client
 description: 
 published: true
-date: 2020-11-17T23:48:20.236Z
+date: 2020-11-21T03:45:42.858Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T15:08:24.455Z
@@ -24,3 +24,24 @@ dateCreated: 2020-11-16T15:08:24.455Z
 - Inventory
 - Equipment?
 -
+
+## ASCII?
+```
+/------------------------------------\
+|  Main Text Area       |[]-[]-[]    |
+|                       |   [] []    |
+|                       |   []-[]-[] |
+|                       |            |
+|                       |_Area Name__|
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|                                    |
+|------------------------------------|
+| ====He====  ====Ma====  ====St==== |
+|------------------------------------|
+|  STATUS | INVENTORY | TYPE | MENU  |
+\------------------------------------/
+```
