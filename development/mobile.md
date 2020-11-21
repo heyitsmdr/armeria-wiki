@@ -2,7 +2,7 @@
 title: Mobile Client
 description: 
 published: true
-date: 2020-11-21T03:45:42.858Z
+date: 2020-11-21T03:54:28.210Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T15:08:24.455Z
@@ -23,9 +23,8 @@ dateCreated: 2020-11-16T15:08:24.455Z
 - Skill List
 - Inventory
 - Equipment?
--
 
-## ASCII?
+## <790w
 ```
 /------------------------------------\
 |  Main Text Area       |[]-[]-[]    |
@@ -45,3 +44,4 @@ dateCreated: 2020-11-16T15:08:24.455Z
 |  STATUS | INVENTORY | TYPE | MENU  |
 \------------------------------------/
 ```
+
