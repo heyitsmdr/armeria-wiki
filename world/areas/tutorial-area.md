@@ -2,7 +2,7 @@
 title: Tutorial Area
 description: 
 published: true
-date: 2020-11-20T16:35:04.115Z
+date: 2020-11-21T04:11:44.170Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-20T16:35:04.114Z
