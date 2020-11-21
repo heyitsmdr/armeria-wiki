@@ -2,13 +2,13 @@
 title: Areas
 description: 
 published: true
-date: 2020-11-16T22:31:09.125Z
+date: 2020-11-21T04:00:08.092Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-15T17:14:49.767Z
 ---
 
-# Region Name
+# Planet: Aluxium
 | Name | Level Range |
 |:-|:-:|
 |[Arcadia](/world/areas/arcadia)|1 - 99|
