@@ -2,7 +2,7 @@
 title: Discord Notes
 description: 
 published: true
-date: 2020-11-21T03:28:52.408Z
+date: 2020-11-21T03:30:17.607Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-15T16:53:18.847Z
@@ -36,14 +36,6 @@ You can insert your own name with `/self`, or someone else in the room with `/<n
 And you do `/remember <short-desc> as <whatever>` then you can target them in your emotes with the name you choose
 And the name you choose persists everywhere. In the room list, examine, all of it
 So someone can tell you their name is one thing, and it be a fake name. You could never find out.
-# Housing
-One thing I know for sure is that I want new characters to basically be given a house instantly
-I’m going to make a huge housing district
-Probably with different districts, different house sizes, all connected via the train system.
-I also want to start thinking about the story a bit.
-I really like the idea of magic being a “hidden” thing in the world at least from the perspective of your character and how you just start in a modern city on probably Earth.
-But there will be so many other worlds/planets out there. Just need to think of ways to expose that and access that in a clever way
-
 # Client Ideas
 **MDR** - I also had an idea where when you run a command and it returns a table, it appears on the right side of the text area in a fixed way.
 
