@@ -2,7 +2,7 @@
 title: Mobile Client
 description: 
 published: true
-date: 2020-11-22T20:40:54.704Z
+date: 2020-11-22T20:42:38.128Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T15:08:24.455Z
@@ -24,7 +24,8 @@ dateCreated: 2020-11-16T15:08:24.455Z
 - Inventory
 - Equipped List
 - Quest Log
-
+- Detailed Stats
+- Status Bar
 
 ## <790w
 ```
