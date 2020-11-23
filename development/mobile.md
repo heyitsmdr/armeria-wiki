@@ -2,7 +2,7 @@
 title: Mobile Client
 description: 
 published: true
-date: 2020-11-22T20:42:38.128Z
+date: 2020-11-23T00:55:10.269Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-16T15:08:24.455Z
@@ -27,7 +27,10 @@ dateCreated: 2020-11-16T15:08:24.455Z
 - Detailed Stats
 - Status Bar
 
-## <790w
+## Random Thoughts
+- What if clicking an adjacent room on minimap just moved instead of teleport. allow all players to do so. mobile movement inside the map itself would be nice. 
+
+## <784w
 ```
 /------------------------------------\
 |  Main Text Area       |[]-[]-[]    |
