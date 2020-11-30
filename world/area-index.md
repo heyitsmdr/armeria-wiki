@@ -2,13 +2,17 @@
 title: Area Index
 description: 
 published: true
-date: 2020-11-21T04:13:18.162Z
+date: 2020-11-30T04:47:40.655Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-15T17:14:49.767Z
 ---
 
-# Planet: Aluxium
+# Planet Aluxium
+
+[Aluxium](/world/planets/aluxium) is our home planet within the Armeria Universe.
+
+## Areas
 | Name | Level Range |
 |:-|:-:|
 |[Arcadia](/world/areas/arcadia)|1 - 99|
