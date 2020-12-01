@@ -2,7 +2,7 @@
 title: Bank Cards
 description: 
 published: true
-date: 2020-12-01T21:29:58.195Z
+date: 2020-12-01T21:32:45.752Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T21:29:58.195Z
@@ -34,8 +34,4 @@ If you have bank transaction notifications enabled (by default, it is), you will
 
 ## Credit
 
-Once your character reaches a certain age, you can apply for Credit Card from any Bank Teller. This has the same functionality as Bank Cards, however, you will have access to a line of credit.
-
-### Payments
-
-### Credit Scores
+You can access a line of credit via [Credit Cards](/character/credit-cards).
