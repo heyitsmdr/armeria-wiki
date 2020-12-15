@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: true
-date: 2020-12-15T18:58:01.152Z
+date: 2020-12-15T19:00:31.111Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-15T18:58:01.152Z
@@ -11,16 +11,6 @@ dateCreated: 2020-12-15T18:58:01.152Z
 # Contributing
 
 Since Armeria is open-source, anyone can run Armeria locally and contribute to the game. All contributions are welcome and extremely appreciated. The only thing not included is access to the production data. However, there is an abundance of example data included within the repo.
-
-## Appendix
-
-- [Getting Started](#getting-started)
-- [Local Development](#local-development)
-- [Upgrading Dependencies](#upgrading-dependencies)
-- [Publishing Features](#publishing-features)
-- [CI/CD](#cicd)
-- [Releasing](#releasing)
-- [Discord](#discord)
 
 ## Getting Started
 
