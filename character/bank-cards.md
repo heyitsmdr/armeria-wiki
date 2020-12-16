@@ -2,7 +2,7 @@
 title: Bank Cards
 description: 
 published: true
-date: 2020-12-01T21:32:45.752Z
+date: 2020-12-16T04:48:11.444Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T21:29:58.195Z
@@ -18,15 +18,15 @@ If you don't have access to any bank cards, you can request a new card for free 
 
 ## Duplicate Cards
 
-Bank cards can be duplicated for a fee from a Bank Teller. These can be given out to friends, family, or whoever you want to be able to access your money.
+Bank cards can be duplicated for a fee from a Bank Teller. These can be given out to friends, family, or whomever you'd like to grant access to your money. They can make both deposits and withdrawls.
 
-### Spending Limits
+### Limitations
 
-When creating a duplicate bank card to give out, you can set spending limits.
+When creating a duplicate bank card to give out, you can set spending limits as well as set the card to be deposit-only or withdraw-only.
 
 ## Transaction Log
 
-All bank cards maintain a permanent transaction log. This includes money being added or removed from the card. Furthermore, all duplicate cards share the same transaction log.
+All bank cards maintain a permanent transaction log. This includes all deposits and withdrawls. Furthermore, all duplicate cards share the same transaction log.
 
 ### Notifications
 
