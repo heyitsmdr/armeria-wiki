@@ -2,7 +2,7 @@
 title: Bank Cards
 description: 
 published: true
-date: 2020-12-16T04:48:11.444Z
+date: 2020-12-16T04:52:48.899Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-01T21:29:58.195Z
@@ -26,7 +26,7 @@ When creating a duplicate bank card to give out, you can set spending limits as 
 
 ## Transaction Log
 
-All bank cards maintain a permanent transaction log. This includes all deposits and withdrawls. Furthermore, all duplicate cards share the same transaction log.
+All bank cards maintain a permanent transaction log. This includes all deposits and withdrawals. Furthermore, all duplicate cards share the same transaction log.
 
 ### Notifications
 
