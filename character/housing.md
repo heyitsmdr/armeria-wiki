@@ -2,7 +2,7 @@
 title: Housing
 description: 
 published: true
-date: 2020-12-16T05:20:07.976Z
+date: 2020-12-16T05:27:32.182Z
 tags: 
 editor: markdown
 dateCreated: 2020-12-16T05:20:07.976Z
@@ -28,9 +28,9 @@ To secure a home mortgage, you simply need to be employed. A single, empty plot 
 
 Assuming you don't just want a single plot of land with nothing on it, you will likely want to build and expand on your plot shortly after receiving it from the Arcadia Housing Association.
 
-You can start adding rooms to your plot at the rate of **$100 / room**, if paid upfront. Alternatively, you can pay an extra **50%** (ie: $150) and tack it onto your mortgage loan.
+You can start by adding rooms to your plot at the rate of **$100 / room**, if paid upfront. Alternatively, you can pay an extra **50%** (ie: $150) and tack it onto your mortgage loan.
 
-The base rate for additional rooms will increase as you expand your house:
+The base rate for additional rooms will increase as you expand your home. You can continue to either pay upfront ***or*** append the expenses to your mortgage.
 
 | Rooms   | Upfront Cost                   | Mortgage Cost        |
 | ------- | :----------------------------- | :------------------- |
