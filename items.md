@@ -2,17 +2,13 @@
 title: Items
 description: 
 published: true
-date: 2021-01-17T16:13:57.546Z
+date: 2021-01-17T16:14:41.401Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-15T17:25:48.161Z
 ---
 
 # Weapons {.tabset}
-## Test Weapons {.tabset}
-### Wood
-### Iron
-### You know
 
 ## One-Handed Melee
 
