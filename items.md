@@ -2,13 +2,13 @@
 title: Items
 description: 
 published: true
-date: 2020-11-16T21:17:30.507Z
+date: 2021-01-17T16:12:11.218Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-11-15T17:25:48.161Z
 ---
 
-# Weapons
+# Weapons {.tabset}
 
 ## One-Handed Melee
 
