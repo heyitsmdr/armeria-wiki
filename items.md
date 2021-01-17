@@ -2,7 +2,7 @@
 title: Items
 description: 
 published: true
-date: 2021-01-17T16:26:01.929Z
+date: 2021-01-17T16:26:41.626Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-15T17:25:48.161Z
@@ -19,7 +19,8 @@ dateCreated: 2020-11-15T17:25:48.161Z
 |![shiv](http://staging.armeria.io/oi/item-long-sword-eb046cd0a6c5ce92eacc7b699adbcc4d.png#item-icon =32x32)|[Wooden Club](/items/wooden-club)|Mace|1|1d6|Bashing|
 
 ### 6-10
-
+| Icon | Name | Type | Level | Attack | Damage Type |
+|:-|:-|:-:|:-:|:-|
 |![shiv](http://staging.armeria.io/oi/item-long-sword-eb046cd0a6c5ce92eacc7b699adbcc4d.png#item-icon =32x32)|[Iron Dagger](/items/iron-dagger)|Dagger|6|1d4+2|Piercing
 
 |![shiv](http://staging.armeria.io/oi/item-long-sword-eb046cd0a6c5ce92eacc7b699adbcc4d.png#item-icon =32x32)|[Iron Longsword](/items/iron-longsword)|Sword|6|1d4+2|Piercing
