@@ -2,7 +2,7 @@
 title: Items
 description: 
 published: true
-date: 2021-01-17T16:25:23.723Z
+date: 2021-01-17T16:26:01.929Z
 tags: 
 editor: markdown
 dateCreated: 2020-11-15T17:25:48.161Z
@@ -42,7 +42,8 @@ Wizmetal Sword of Sparkles
 
 Wizmetal Headsmasher
 
-## Two-Handed Melee {.tabset}
+## Two-handed Melee
+## Two-handed Melee {.tabset}
 
 ### 1-5
 
